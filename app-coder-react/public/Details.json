@@ -1,0 +1,6 @@
+[
+    {"id":1, "stock":10, "categoria":"dulce", "Price":100,"data":"lorem", "name":"Hamburguesa","image":"https://assets.unileversolutions.com/recipes-v2/231570.png"},
+    {"id":2, "stock":10, "categoria":"dulce", "Price":100,"data":"lorem", "name":"Pancho","image":"https://cdn.cienradios.com/wp-content/uploads/sites/13/2020/04/Panchos-argentinos-nota.jpg"},
+    {"id":3, "stock":10, "categoria":"salado", "Price":100,"data":"lorem", "name":"Pancake", "image":"https://cdn.kiwilimon.com/recetaimagen/374/th5-640x640-2622.jpg"},
+    {"id":4, "stock":10, "categoria":"salado", "Price":100,"data":"lorem", "name":"Torta de Chocolate","image":"https://cocinerosargentinos.com/content/recipes/original/recipes.12186.jpeg"}
+]

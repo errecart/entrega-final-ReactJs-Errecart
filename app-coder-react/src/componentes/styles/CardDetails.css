@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Inline+One:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+.cardDt{
+    background-color: #3fc2f4;
+    background-image: linear-gradient(132deg, #3fc2f4 0%, #b53686 100%);
+    margin:15px;
+    font-family: 'Alumni Sans Inline One', cursive;
+    width: 17rem;
+    border: solid 0.2px white;
+}
+
+.cardDi{
+    justify-content: center;
+    display: flex;
+}
+
+.cardF{
+    width: 15rem;
+    height: 14rem;
+    border: solid 2px black;
+    border-radius: 3px;
+}
+
+.title2{
+    font-size: 45px;
+    color: black;
+}
+
+.cardInfo{
+    font-size: 25px;
+    color: rgb(85, 19, 19);
+}
+
+.data{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 15px;
+    color: black;
+}
+
+.CardCompra button{
+    font-size: 20px;
+    background-color: rgb(62, 178, 49);
+    color: black;
+    border-radius: 3px;
+    margin: 5px;
+
+}
+
+.changeButton{
+    font-size: 20px;
+    background-color: rgb(62, 178, 49);
+    color: black;
+    border-radius: 3px;
+    margin: 5px;
+}
+
+.seleccion{
+    width: 30px;
+}
+

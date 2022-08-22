@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Inline+One:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+.navB{
+    display:flex;
+    justify-content:space-around;
+    align-content:center;
+    background-color:black;
+    height:75px;
+    text-decoration: none;
+}
+
+.navB h2{
+    font-family: 'Alumni Sans Inline One', cursive;
+    font-size: 50px;
+    color: white;
+    
+}
+
+.navList{
+    display: flex;
+    justify-content: space-around;
+    margin: 15px;
+    letter-spacing: 4px;
+    font-size: 18px;
+    margin-left: 650px;
+    text-decoration: none;
+    color: violet;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+

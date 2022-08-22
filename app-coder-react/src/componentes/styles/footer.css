@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Inline+One:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+
+.footer{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 75px;
+}
+
+.footer p{
+    margin-left: 10px;
+    color: white;
+    width: 400px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.reds{
+
+    margin: 15px;
+}

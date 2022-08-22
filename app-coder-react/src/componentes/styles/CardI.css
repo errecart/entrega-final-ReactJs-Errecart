@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Inline+One:ital@1&display=swap');
+
+
+.cardFondo{
+    background-color: #3fc2f4;
+    background-image: linear-gradient(132deg, #3fc2f4 0%, #b53686 100%);
+    margin:15px;
+    font-family: 'Alumni Sans Inline One', cursive;
+    width: 19rem;
+}
+
+.cardFoto{
+    width: 18.9rem;
+    height: 19rem;
+}
+
+.cardFondo button{
+    font-size: 20px;
+    background-color: rgb(62, 178, 49);
+    color: black;
+}
+
+
+.title{
+    font-size: 35px;
+}
+
+.itemList{
+    display: grid;
+    grid-template-columns: repeat(4, 0.5fr);
+    grid-template-rows: repeat(2, 0.5fr);
+    gap: 0px 0px;
+    grid-auto-flow: row;
+    grid-template-areas:
+      ". . . ."
+      ". . . .";
+}

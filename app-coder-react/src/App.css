@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; }
+
+.AppC{
+  background-color: rgb(28, 27, 27);
+  height: auto;
+}
+
+html{
+  background-color: rgb(28, 27, 27);
+}
+
+body::-webkit-scrollbar {
+  width: 10px;
+}
+
+body::-webkit-scrollbar-track {
+  background: black;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: rgb(136, 56, 143);
+  border-radius: 20px;
+  border: 3px solid rgb(64, 13, 88);
+}
